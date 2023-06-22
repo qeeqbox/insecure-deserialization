@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/insecure-deserialization/main/xslt-injectinsecure-deserialization.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/insecure-deserialization/main/insecure-deserialization.png"></p>
 
 A threat actor may tamper with a stream that gets deserialized on the target causing the target to access data or perform non-intended actions
 
