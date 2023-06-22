@@ -51,4 +51,4 @@ High
 a244242a-a9d5-47e0-9c01-86eecdf073ea
 
 ## References
-- (Wikipedia)[https://en.wikipedia.org/wiki/Serialization]
+- [Wikipedia](https://en.wikipedia.org/wiki/Serialization)
