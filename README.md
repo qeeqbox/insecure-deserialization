@@ -48,7 +48,6 @@ In the Sessions section, find the serialized object (payload.pkl), and upload it
 After the upload is successful
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/insecure-deserialization/main/content/4.png"></p>
 The payload is executed on the backend
-
 ```sh
 Last login: Sun Nov  1 13:10:31 on ttys001
 user@users-Mac-mini vulnerable-web-app % python3 webapp.py
